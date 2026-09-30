@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: README
+    url: https://github.com/quanticsoul4772/hygiene-streak-target/blob/HEAD/README.md
+    about: Read the project overview and usage instructions before opening an issue.
+  - name: Contributing guide
+    url: https://github.com/quanticsoul4772/hygiene-streak-target/blob/HEAD/CONTRIBUTING.md
+    about: Learn how to contribute and which issue template fits your report.
+  - name: Security policy
+    url: https://github.com/quanticsoul4772/hygiene-streak-target/blob/HEAD/SECURITY.md
+    about: Report security vulnerabilities privately as described here, not in a public issue.
+  - name: Code of conduct
+    url: https://github.com/quanticsoul4772/hygiene-streak-target/blob/HEAD/CODE_OF_CONDUCT.md
+    about: Review the community standards expected in all project spaces.
